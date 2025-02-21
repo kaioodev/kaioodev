@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Kaique Caio de Sousa!
+# 👋 Olá, um pouco sobre o Kaique!
 
 🎓 Estudante de Ciência da Computação na PUC Goiás | 💻 Focado em Desenvolvimento Back-End
 
@@ -16,7 +16,6 @@ Sou apaixonado por tecnologia e atualmente estou me especializando em desenvolvi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
