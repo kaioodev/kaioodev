@@ -37,4 +37,4 @@ Sou apaixonado por tecnologia e atualmente estou me especializando em desenvolvi
 
 ---
 
-⭐ **"Em constante evolução, sempre pronto para novos desafios!"**
+**"O trabalho duro supera o talento natural."**
